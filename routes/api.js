@@ -11,7 +11,6 @@
 const fetch = require('node-fetch');
 const crypto = require('crypto');
 const { MongoClient } = require('mongodb');
-const fetch = require('node-fetch');
 
 module.exports = function(app) {
 
